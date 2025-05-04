@@ -134,3 +134,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# macOS system files
+.DS_Store
+src/.DS_Store
+src/components/.DS_Store
+
+# Vite temp files
+.vite/
